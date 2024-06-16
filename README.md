@@ -1,5 +1,4 @@
-# money_multiplier
-Money multiplier counter script
+# Money Multiplier
 
 Steps to use:
 1. Enter this script in browser console.
